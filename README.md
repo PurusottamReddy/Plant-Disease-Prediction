@@ -1,0 +1,2 @@
+# plantdiseasepredict
+ detect plant disease
